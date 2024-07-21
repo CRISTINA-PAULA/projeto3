@@ -1,0 +1,71 @@
+.body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-image: linear-gradient( #83300aef, #ff5100e1);
+}
+
+ .nav .nav-link .active{
+    background-color: #ffffff;
+    color: #802e08e1;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.nav-estacao:hover{
+    color: #ffffff;
+}
+
+.navbar-brand:hover {
+    color: #ffffff;
+}
+
+.navbar-brand {
+    font-family:  Pacifico, cursive;
+}
+
+.section-title{
+    font-family:  Pacifico, cursive;
+}
+
+.text-color {
+   color:#ff5100e1;
+}
+
+#sobre-a-loja{
+    background-color:  #d85213b2;
+}
+
+.nav-roupa .nav-link.active {
+    color: #ffffff;
+    background-color: #ec895bb2;;
+
+}
+
+.nav-roupa .nav-link.active:hover{
+    color: #d85213b2;;
+}
+
+aside {
+    background-color: #ff5100e1;
+}
+
+#roupa {
+    background-color:  #d85213b2;
+}
+
+.social-link li {
+    list-style: none;
+    display: inline;
+}
+
+.social-link a{
+    text-decoration: none;
+}
+
+#fale-conosco button {
+    color: #ffffff;
+    background-color: #e05717;;
+
+}
